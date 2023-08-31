@@ -1,0 +1,57 @@
+leftnav:
+- identifier: 0cf4a2f7-2707-6f36-fb47-41232b956e45
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4da88728-f4c9-8662-0aaa-7541b3fb2136
+  name: 'Units 1 & 2: Bits and Codes'
+  pageRef: /pages/bits-codes
+  weight: 20
+- identifier: 2dcc8474-126c-fe52-468d-88a8358a4a30
+  name: 'Unit 3: Compression'
+  pageRef: /pages/compression
+  weight: 30
+- identifier: e540be48-60de-de3e-a806-e164de6627ab
+  name: 'Unit 4: Noise and Errors'
+  pageRef: /pages/noise-errors
+  weight: 40
+- identifier: 4a7c8a7a-031e-7d86-e440-022fce4128e3
+  name: 'Unit 5: Probability'
+  pageRef: /pages/probability
+  weight: 50
+- identifier: 41d41aad-b959-8d1c-a97c-e913433a3a5c
+  name: 'Unit 6: Communications'
+  pageRef: /pages/communications
+  weight: 60
+- identifier: 9453fa10-297c-8f65-ea5d-3c62461edc54
+  name: 'Unit 7: Processes'
+  pageRef: /pages/processes
+  weight: 70
+- identifier: c334d67c-3d5f-a06a-3bd8-fc9d31760f32
+  name: 'Unit 8: Inference'
+  pageRef: /pages/inference
+  weight: 80
+- identifier: b12913cf-0777-b412-6ec0-4bb3ff6fdcae
+  name: 'Unit 9: Maximum Entropy'
+  pageRef: /pages/maximum-entropy
+  weight: 90
+- identifier: 04d3de47-9068-805c-423b-0e0a1cb71ed7
+  name: 'Unit 10: Physical Systems'
+  pageRef: /pages/physical-systems
+  weight: 100
+- identifier: 8ed65f6a-4dae-d471-8418-58d21c5e92dc
+  name: 'Unit 11: Energy'
+  pageRef: /pages/energy
+  weight: 110
+- identifier: 5ef930f5-8e59-5217-7087-d1304a2f4b4e
+  name: 'Unit 12: Temperature'
+  pageRef: /pages/temperature
+  weight: 120
+- identifier: c7e90fb8-77bc-7b01-c552-e131a7f97b65
+  name: 'Unit 13: Quantum Information'
+  pageRef: /pages/quantum-information
+  weight: 130
+- identifier: 083b1a76-ef20-6e5e-381e-7d28ff61dafc
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 140

@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "35847274-cbae-ce38-49f1-e1c461962b90",
+  "instructors": {
+    "content": [
+      "e63339bd-b70d-1672-d607-330cb947e2b4",
+      "c9805ee2-1e4f-310f-1e1c-b1519b9373ec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "998d75ae-c452-abbc-0372-64c8d220786f",
+    "website": "6-050j-information-and-entropy-spring-2008"
+  },
+  "course_title": "Information and Entropy",
+  "course_description": "This course explores the ultimate limits to communication and computation, with an emphasis on the physical nature of information and information processing. Topics include: information and computation, digital signals, codes and compression, applications such as biological representations of information, logic circuits, computer architectures, and algorithmic information, noise, probability, error correction, reversible and irreversible operations, physics of computation, and quantum computation. The concept of entropy is applied to channel capacity and to the second law of thermodynamics.\n",
+  "department_numbers": [
+    "6",
+    "2"
+  ],
+  "extra_course_numbers": "2.110J",
+  "primary_course_number": "6.050J",
+  "course_image_thumbnail": {
+    "content": "3123d36e-8e3b-91f1-32be-7223fa2cc597",
+    "website": "6-050j-information-and-entropy-spring-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Online Textbook",
+    "Programming Assignments"
+  ],
+  "site_uid": "0b6360f7-3280-4021-a3a5-bd802e59d502",
+  "site_short_id": "6.050j-spring-2008",
+  "title": "Course Metadata"
+}
